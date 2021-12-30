@@ -16,5 +16,7 @@ public class Utilty {
 		FileHandler.copy(source, dest);
 		//String destination = System.getProperty("test-output"+File.separator+"testScreenshots"+File.separator+"Test_");
 		//return destination;
+		//String destination = System.getProperty("test-output"+File.separator+"testScreenshots"+File.separator+"Test_");
+		//return destination;
 	}
 }
